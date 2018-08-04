@@ -17,7 +17,7 @@
 ```wget -O libqt.deb http://cz.archive.ubuntu.com/ubuntu/pool/universe/q/qtx11extras-opensource-src/libqt5x11extras5_5.5.1-3build1_amd64.deb```
 
 >* Download virtualbox 5.1.30:
-``` wget -O virtualbox.deb https://download.virtualbox.org/virtualbox/5.1.38/virtualbox-5.1_5.1.38-122592~Ubuntu~xenial_amd64.deb ```
+``` wget -O virtualbox.deb https://download.virtualbox.org/virtualbox/5.1.30/virtualbox-5.1_5.1.30-118389~Ubuntu~xenial_amd64.deb ```
 
 >* Install:
 ``` sudo apt install ./libqt.deb ./virtualbox.deb ```
